@@ -9,7 +9,7 @@ const Todo = ({todo}) => {
     </div>
     <div>
       <button className='complete'>Completar</button>
-      <button>X</button>
+      <button className='remove'>X</button>
     </div>
   </div>
   )
